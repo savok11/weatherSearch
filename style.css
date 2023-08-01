@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background: black;
+}
+
+#output {
+    text-align: center;
+    color: rgb(255, 89, 0);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    height: 150vh;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    background-color: #000000;
+}
+
+#map {
+    width: 600px;
+    height: 500px;
+    margin-top: 20px;
+    margin-left: 35%;
+}
+
+form {
+    text-align: center;
+}
+
+#inp {
+    width: 400px;
+    margin-top: 20px;
+    height: 50px;
+    font-size: 30px;
+    background: #000000;
+    color: orange;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+
+button {
+    width: 100px;
+    height: 80px;
+    background: #000000;
+    color: orange;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 20px;
+}
